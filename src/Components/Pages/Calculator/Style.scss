@@ -1,0 +1,31 @@
+.calci-card {
+  height: 28rem;
+  width: 20rem !important;
+  margin: 0.5rem;
+  border: 0.5px solid black !important;
+  background-color: rgb(194, 146, 121) !important;
+  border-radius: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  left: 200px;
+}
+.input-text {
+  width: 16rem !important;
+  height: 2rem;
+  border: 1px solid black !important;
+  padding: 10px 10px 10px 10px;
+  margin: 1rem;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+.btn-cal {
+  margin: 20px 10px 20px 23px;
+  width: 2.5rem;
+  height: 2rem;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 1px solid black !important;
+  background-color: rgba(77, 123, 183, 0.532);
+}
